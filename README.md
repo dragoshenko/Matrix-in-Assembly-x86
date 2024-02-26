@@ -20,11 +20,3 @@ Here's an example of how to use the program:
 2. Input the values for each element of the matrix.
 3. The program will display the initialized matrix to the console.
 
-## Contributing
-
-Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
